@@ -19,6 +19,6 @@
     "express": "^4.16.4",
     "mongoose": "^5.13.15",
     "sentiment": "^5.0.2",
-    "socket.io": "^2.5.0"
+    "socket.io": "^4.5.3"
   }
 }
