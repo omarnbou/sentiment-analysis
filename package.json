@@ -14,7 +14,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/amitsin6h/sentiment-analysis#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^3.1.7",
     "express": "^4.16.4",
     "mongoose": "^5.13.15",
